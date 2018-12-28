@@ -5,7 +5,7 @@ from tkinter.filedialog import askopenfilename
 import sys, os
 '''
 Will export the selected stats file into a csv format which will enable you to
-edit you stats outside of the engine and then be able to import them back into
+edit your stats outside of the engine and then be able to import them back into
 the engine with with the changes made.
 '''
 # location and file name
